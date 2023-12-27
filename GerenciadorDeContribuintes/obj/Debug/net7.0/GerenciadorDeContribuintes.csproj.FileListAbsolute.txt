@@ -1,0 +1,15 @@
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/bin/Debug/net7.0/GerenciadorDeContribuintes
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/bin/Debug/net7.0/GerenciadorDeContribuintes.deps.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/bin/Debug/net7.0/GerenciadorDeContribuintes.runtimeconfig.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/bin/Debug/net7.0/GerenciadorDeContribuintes.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/bin/Debug/net7.0/GerenciadorDeContribuintes.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.csproj.AssemblyReference.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.AssemblyInfoInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.AssemblyInfo.cs
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.csproj.CoreCompileInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/refint/GerenciadorDeContribuintes.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/GerenciadorDeContribuintes.genruntimeconfig.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Heranca e Polimorfismo/ExerFixacaoFinal/GerenciadorDeContribuintes/obj/Debug/net7.0/ref/GerenciadorDeContribuintes.dll
